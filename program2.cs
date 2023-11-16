@@ -8,4 +8,4 @@ for (int i=0; i<8; i++)
 }
 Console.WriteLine("result= " +count);
 /* will run 8 times
-used to determine one's in a binary number by converting input + count */ 
+used to determine one's in a binary number by converting input + count usage */ 
